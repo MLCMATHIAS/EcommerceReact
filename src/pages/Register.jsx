@@ -39,8 +39,6 @@ padding:15px 20px;
 background-color:teal;
 color:white;
 cursor:pointer;
-
-
 `;
 
 const Register = () => {
