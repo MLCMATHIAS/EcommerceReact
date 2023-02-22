@@ -67,15 +67,15 @@ const Navbar = () => {
     <Container>
       <Wrapper>
        <Left>
-        <Languaje>EN</Languaje>
+        <Languaje>ES</Languaje>
         <SearchConteiner>
-          <Input placeholder='Search'/>
+          <Input placeholder='Buscar'/>
           <Search style={{color:"grey", fontSize:16}}/>
         </SearchConteiner>
        </Left>
-       <Center><Logo>MLC.</Logo></Center>
+       <Center><Logo>W&M.</Logo></Center>
        <Rigth>
-         <MenuItem>Registrarce</MenuItem>
+         <MenuItem>Registraté</MenuItem>
          <MenuItem>Sing in</MenuItem>
          <MenuItem>
            <Badge badgecontent={4} >
